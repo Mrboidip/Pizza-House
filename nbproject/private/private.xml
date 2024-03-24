@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/updateFoodDB.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/model/OrderDetail.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/orderFood.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/login.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/adminFood.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/deleteFoodDB.java</file>
+            <file>file:/D:/Ky2/PRJ/web/adminFood.jsp</file>
+            <file>file:/D:/Ky2/PRJ/src/java/model/Order.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/urgeorder.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/dal/UserDAO.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/logout.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/model/OrderDetailTemp.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/customer.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/updatefood.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/checkout.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/home.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/register.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/cusChooseTable.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/model/Food.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/checkcode.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/searchfood.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/searchfoodbycate.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/removefood.java</file>
+            <file>file:/D:/Ky2/PRJ/web/index.jsp</file>
+            <file>file:/D:/Ky2/PRJ/src/java/dal/OrderDAO.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/dal/TableDAO.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/chooseTable.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/controller/changeOrderStatus.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/dal/FoodDAO.java</file>
+            <file>file:/D:/Ky2/PRJ/src/java/model/Table.java</file>
+        </group>
+    </open-files>
+</project-private>
